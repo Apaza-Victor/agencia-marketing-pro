@@ -1,0 +1,6 @@
+# Ignorar el archivo de configuración con contraseñas reales
+includes/config.php
+
+# Ignorar archivos temporales del sistema
+.DS_Store
+Thumbs.db
